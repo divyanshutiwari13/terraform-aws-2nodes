@@ -70,7 +70,8 @@ terraform apply -auto-approve
 
 5. **Check output**
 
-Terraform will output the public IPs of both EC2 instances. Use these IPs to configure your DNS (`node1.divyanshutiwari.site`, `node2.divyanshutiwari.site`).
+Terraform will output the public IPs of both EC2 instances. Use these IPs to configure your DNS 
+node1.divyanshutiwari.site , node2.divyanshutiwari.site 
 
 6. **Deployment Log**
 
@@ -100,4 +101,5 @@ Application cloned from GitHub and started with PM2.
 Nginx configured and SSL applied successfully.
 ===== Deployment complete for node2.divyanshutiwari.site =====
 ```
+
 
