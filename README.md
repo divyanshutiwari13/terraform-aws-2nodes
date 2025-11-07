@@ -70,7 +70,7 @@ terraform apply -auto-approve
 
 5. **Check output**
 
-Terraform will output the public IPs of both EC2 instances. Use these IPs to configure your DNS (e.g., `node1.divyanshutiwari.site`, `node2.divyanshutiwari.site`).
+Terraform will output the public IPs of both EC2 instances. Use these IPs to configure your DNS (`node1.divyanshutiwari.site`, `node2.divyanshutiwari.site`).
 
 6. **Deployment Log**
 
